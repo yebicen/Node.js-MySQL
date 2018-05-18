@@ -1,0 +1,26 @@
+{
+  "name": "node.js-mysql",
+  "version": "1.0.0",
+  "description": "self project",
+  "main": "bamazonSupervisor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yebicen/Node.js-MySQL.git"
+  },
+  "keywords": [
+    "online",
+    "shopping"
+  ],
+  "author": "bicen ye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yebicen/Node.js-MySQL/issues"
+  },
+  "homepage": "https://github.com/yebicen/Node.js-MySQL#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1"
+  }
+}
